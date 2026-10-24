@@ -1,0 +1,237 @@
+date,medicine,dosage,scheduled_time,status
+2026-08-26,Metformin,500 mg,08:00,Taken
+2026-08-26,Metformin,500 mg,20:00,Taken
+2026-08-26,Vitamin D3,1 capsule,09:00,Taken
+2026-08-26,Amlodipine,5 mg,21:00,Taken
+2026-08-27,Metformin,500 mg,08:00,Taken
+2026-08-27,Metformin,500 mg,20:00,Taken
+2026-08-27,Vitamin D3,1 capsule,09:00,Taken
+2026-08-27,Amlodipine,5 mg,21:00,Taken
+2026-08-28,Metformin,500 mg,08:00,Taken
+2026-08-28,Metformin,500 mg,20:00,Taken
+2026-08-28,Vitamin D3,1 capsule,09:00,Taken
+2026-08-28,Amlodipine,5 mg,21:00,Missed
+2026-08-29,Metformin,500 mg,08:00,Taken
+2026-08-29,Metformin,500 mg,20:00,Missed
+2026-08-29,Vitamin D3,1 capsule,09:00,Taken
+2026-08-29,Amlodipine,5 mg,21:00,Taken
+2026-08-30,Metformin,500 mg,08:00,Taken
+2026-08-30,Metformin,500 mg,20:00,Taken
+2026-08-30,Vitamin D3,1 capsule,09:00,Taken
+2026-08-30,Amlodipine,5 mg,21:00,Taken
+2026-08-31,Metformin,500 mg,08:00,Taken
+2026-08-31,Metformin,500 mg,20:00,Taken
+2026-08-31,Vitamin D3,1 capsule,09:00,Taken
+2026-08-31,Amlodipine,5 mg,21:00,Taken
+2026-09-01,Metformin,500 mg,08:00,Missed
+2026-09-01,Metformin,500 mg,20:00,Taken
+2026-09-01,Vitamin D3,1 capsule,09:00,Taken
+2026-09-01,Amlodipine,5 mg,21:00,Taken
+2026-09-02,Metformin,500 mg,08:00,Taken
+2026-09-02,Metformin,500 mg,20:00,Taken
+2026-09-02,Vitamin D3,1 capsule,09:00,Missed
+2026-09-02,Amlodipine,5 mg,21:00,Taken
+2026-09-03,Metformin,500 mg,08:00,Taken
+2026-09-03,Metformin,500 mg,20:00,Taken
+2026-09-03,Vitamin D3,1 capsule,09:00,Taken
+2026-09-03,Amlodipine,5 mg,21:00,Taken
+2026-09-04,Metformin,500 mg,08:00,Taken
+2026-09-04,Metformin,500 mg,20:00,Taken
+2026-09-04,Vitamin D3,1 capsule,09:00,Taken
+2026-09-04,Amlodipine,5 mg,21:00,Missed
+2026-09-05,Metformin,500 mg,08:00,Taken
+2026-09-05,Metformin,500 mg,20:00,Taken
+2026-09-05,Vitamin D3,1 capsule,09:00,Missed
+2026-09-05,Amlodipine,5 mg,21:00,Taken
+2026-09-06,Metformin,500 mg,08:00,Taken
+2026-09-06,Metformin,500 mg,20:00,Missed
+2026-09-06,Vitamin D3,1 capsule,09:00,Missed
+2026-09-06,Amlodipine,5 mg,21:00,Missed
+2026-09-07,Metformin,500 mg,08:00,Missed
+2026-09-07,Metformin,500 mg,20:00,Taken
+2026-09-07,Vitamin D3,1 capsule,09:00,Taken
+2026-09-07,Amlodipine,5 mg,21:00,Taken
+2026-09-08,Metformin,500 mg,08:00,Taken
+2026-09-08,Metformin,500 mg,20:00,Taken
+2026-09-08,Vitamin D3,1 capsule,09:00,Taken
+2026-09-08,Amlodipine,5 mg,21:00,Taken
+2026-09-09,Metformin,500 mg,08:00,Taken
+2026-09-09,Metformin,500 mg,20:00,Taken
+2026-09-09,Vitamin D3,1 capsule,09:00,Taken
+2026-09-09,Amlodipine,5 mg,21:00,Taken
+2026-09-10,Metformin,500 mg,08:00,Taken
+2026-09-10,Metformin,500 mg,20:00,Missed
+2026-09-10,Vitamin D3,1 capsule,09:00,Taken
+2026-09-10,Amlodipine,5 mg,21:00,Missed
+2026-09-11,Metformin,500 mg,08:00,Taken
+2026-09-11,Metformin,500 mg,20:00,Taken
+2026-09-11,Vitamin D3,1 capsule,09:00,Taken
+2026-09-11,Amlodipine,5 mg,21:00,Taken
+2026-09-12,Metformin,500 mg,08:00,Taken
+2026-09-12,Metformin,500 mg,20:00,Taken
+2026-09-12,Vitamin D3,1 capsule,09:00,Taken
+2026-09-12,Amlodipine,5 mg,21:00,Taken
+2026-09-13,Metformin,500 mg,08:00,Taken
+2026-09-13,Metformin,500 mg,20:00,Taken
+2026-09-13,Vitamin D3,1 capsule,09:00,Missed
+2026-09-13,Amlodipine,5 mg,21:00,Taken
+2026-09-14,Metformin,500 mg,08:00,Taken
+2026-09-14,Metformin,500 mg,20:00,Taken
+2026-09-14,Vitamin D3,1 capsule,09:00,Taken
+2026-09-14,Amlodipine,5 mg,21:00,Taken
+2026-09-15,Metformin,500 mg,08:00,Missed
+2026-09-15,Metformin,500 mg,20:00,Taken
+2026-09-15,Vitamin D3,1 capsule,09:00,Taken
+2026-09-15,Amlodipine,5 mg,21:00,Taken
+2026-09-16,Metformin,500 mg,08:00,Taken
+2026-09-16,Metformin,500 mg,20:00,Taken
+2026-09-16,Vitamin D3,1 capsule,09:00,Taken
+2026-09-16,Amlodipine,5 mg,21:00,Taken
+2026-09-17,Metformin,500 mg,08:00,Taken
+2026-09-17,Metformin,500 mg,20:00,Missed
+2026-09-17,Vitamin D3,1 capsule,09:00,Taken
+2026-09-17,Amlodipine,5 mg,21:00,Taken
+2026-09-18,Metformin,500 mg,08:00,Missed
+2026-09-18,Metformin,500 mg,20:00,Taken
+2026-09-18,Vitamin D3,1 capsule,09:00,Taken
+2026-09-18,Amlodipine,5 mg,21:00,Missed
+2026-09-19,Metformin,500 mg,08:00,Missed
+2026-09-19,Metformin,500 mg,20:00,Missed
+2026-09-19,Vitamin D3,1 capsule,09:00,Missed
+2026-09-19,Amlodipine,5 mg,21:00,Taken
+2026-09-20,Metformin,500 mg,08:00,Taken
+2026-09-20,Metformin,500 mg,20:00,Taken
+2026-09-20,Vitamin D3,1 capsule,09:00,Taken
+2026-09-20,Amlodipine,5 mg,21:00,Taken
+2026-09-21,Metformin,500 mg,08:00,Taken
+2026-09-21,Metformin,500 mg,20:00,Taken
+2026-09-21,Vitamin D3,1 capsule,09:00,Taken
+2026-09-21,Amlodipine,5 mg,21:00,Taken
+2026-09-22,Metformin,500 mg,08:00,Taken
+2026-09-22,Metformin,500 mg,20:00,Taken
+2026-09-22,Vitamin D3,1 capsule,09:00,Taken
+2026-09-22,Amlodipine,5 mg,21:00,Missed
+2026-09-23,Metformin,500 mg,08:00,Taken
+2026-09-23,Metformin,500 mg,20:00,Missed
+2026-09-23,Vitamin D3,1 capsule,09:00,Taken
+2026-09-23,Amlodipine,5 mg,21:00,Taken
+2026-09-24,Metformin,500 mg,08:00,Taken
+2026-09-24,Metformin,500 mg,20:00,Taken
+2026-09-24,Vitamin D3,1 capsule,09:00,Taken
+2026-09-24,Amlodipine,5 mg,21:00,Taken
+2026-09-25,Metformin,500 mg,08:00,Taken
+2026-09-25,Metformin,500 mg,20:00,Taken
+2026-09-25,Vitamin D3,1 capsule,09:00,Taken
+2026-09-25,Amlodipine,5 mg,21:00,Taken
+2026-09-26,Metformin,500 mg,08:00,Missed
+2026-09-26,Metformin,500 mg,20:00,Taken
+2026-09-26,Vitamin D3,1 capsule,09:00,Taken
+2026-09-26,Amlodipine,5 mg,21:00,Taken
+2026-09-27,Metformin,500 mg,08:00,Taken
+2026-09-27,Metformin,500 mg,20:00,Taken
+2026-09-27,Vitamin D3,1 capsule,09:00,Missed
+2026-09-27,Amlodipine,5 mg,21:00,Taken
+2026-09-28,Metformin,500 mg,08:00,Taken
+2026-09-28,Metformin,500 mg,20:00,Taken
+2026-09-28,Vitamin D3,1 capsule,09:00,Taken
+2026-09-28,Amlodipine,5 mg,21:00,Taken
+2026-09-29,Metformin,500 mg,08:00,Taken
+2026-09-29,Metformin,500 mg,20:00,Taken
+2026-09-29,Vitamin D3,1 capsule,09:00,Taken
+2026-09-29,Amlodipine,5 mg,21:00,Missed
+2026-09-30,Metformin,500 mg,08:00,Taken
+2026-09-30,Metformin,500 mg,20:00,Taken
+2026-09-30,Vitamin D3,1 capsule,09:00,Missed
+2026-09-30,Amlodipine,5 mg,21:00,Taken
+2026-10-01,Metformin,500 mg,08:00,Taken
+2026-10-01,Metformin,500 mg,20:00,Missed
+2026-10-01,Vitamin D3,1 capsule,09:00,Missed
+2026-10-01,Amlodipine,5 mg,21:00,Missed
+2026-10-02,Metformin,500 mg,08:00,Missed
+2026-10-02,Metformin,500 mg,20:00,Taken
+2026-10-02,Vitamin D3,1 capsule,09:00,Taken
+2026-10-02,Amlodipine,5 mg,21:00,Taken
+2026-10-03,Metformin,500 mg,08:00,Taken
+2026-10-03,Metformin,500 mg,20:00,Taken
+2026-10-03,Vitamin D3,1 capsule,09:00,Taken
+2026-10-03,Amlodipine,5 mg,21:00,Taken
+2026-10-04,Metformin,500 mg,08:00,Taken
+2026-10-04,Metformin,500 mg,20:00,Taken
+2026-10-04,Vitamin D3,1 capsule,09:00,Taken
+2026-10-04,Amlodipine,5 mg,21:00,Taken
+2026-10-05,Metformin,500 mg,08:00,Taken
+2026-10-05,Metformin,500 mg,20:00,Missed
+2026-10-05,Vitamin D3,1 capsule,09:00,Taken
+2026-10-05,Amlodipine,5 mg,21:00,Missed
+2026-10-06,Metformin,500 mg,08:00,Taken
+2026-10-06,Metformin,500 mg,20:00,Taken
+2026-10-06,Vitamin D3,1 capsule,09:00,Taken
+2026-10-06,Amlodipine,5 mg,21:00,Taken
+2026-10-07,Metformin,500 mg,08:00,Taken
+2026-10-07,Metformin,500 mg,20:00,Taken
+2026-10-07,Vitamin D3,1 capsule,09:00,Taken
+2026-10-07,Amlodipine,5 mg,21:00,Taken
+2026-10-08,Metformin,500 mg,08:00,Taken
+2026-10-08,Metformin,500 mg,20:00,Taken
+2026-10-08,Vitamin D3,1 capsule,09:00,Missed
+2026-10-08,Amlodipine,5 mg,21:00,Taken
+2026-10-09,Metformin,500 mg,08:00,Taken
+2026-10-09,Metformin,500 mg,20:00,Taken
+2026-10-09,Vitamin D3,1 capsule,09:00,Taken
+2026-10-09,Amlodipine,5 mg,21:00,Taken
+2026-10-10,Metformin,500 mg,08:00,Missed
+2026-10-10,Metformin,500 mg,20:00,Taken
+2026-10-10,Vitamin D3,1 capsule,09:00,Taken
+2026-10-10,Amlodipine,5 mg,21:00,Taken
+2026-10-11,Metformin,500 mg,08:00,Taken
+2026-10-11,Metformin,500 mg,20:00,Taken
+2026-10-11,Vitamin D3,1 capsule,09:00,Taken
+2026-10-11,Amlodipine,5 mg,21:00,Taken
+2026-10-12,Metformin,500 mg,08:00,Taken
+2026-10-12,Metformin,500 mg,20:00,Missed
+2026-10-12,Vitamin D3,1 capsule,09:00,Taken
+2026-10-12,Amlodipine,5 mg,21:00,Taken
+2026-10-13,Metformin,500 mg,08:00,Missed
+2026-10-13,Metformin,500 mg,20:00,Taken
+2026-10-13,Vitamin D3,1 capsule,09:00,Taken
+2026-10-13,Amlodipine,5 mg,21:00,Missed
+2026-10-14,Metformin,500 mg,08:00,Missed
+2026-10-14,Metformin,500 mg,20:00,Missed
+2026-10-14,Vitamin D3,1 capsule,09:00,Missed
+2026-10-14,Amlodipine,5 mg,21:00,Taken
+2026-10-15,Metformin,500 mg,08:00,Taken
+2026-10-15,Metformin,500 mg,20:00,Taken
+2026-10-15,Vitamin D3,1 capsule,09:00,Taken
+2026-10-15,Amlodipine,5 mg,21:00,Taken
+2026-10-16,Metformin,500 mg,08:00,Taken
+2026-10-16,Metformin,500 mg,20:00,Taken
+2026-10-16,Vitamin D3,1 capsule,09:00,Taken
+2026-10-16,Amlodipine,5 mg,21:00,Taken
+2026-10-17,Metformin,500 mg,08:00,Taken
+2026-10-17,Metformin,500 mg,20:00,Taken
+2026-10-17,Vitamin D3,1 capsule,09:00,Taken
+2026-10-17,Amlodipine,5 mg,21:00,Missed
+2026-10-18,Metformin,500 mg,08:00,Taken
+2026-10-18,Metformin,500 mg,20:00,Missed
+2026-10-18,Vitamin D3,1 capsule,09:00,Taken
+2026-10-18,Amlodipine,5 mg,21:00,Taken
+2026-10-19,Metformin,500 mg,08:00,Taken
+2026-10-19,Metformin,500 mg,20:00,Taken
+2026-10-19,Vitamin D3,1 capsule,09:00,Taken
+2026-10-19,Amlodipine,5 mg,21:00,Taken
+2026-10-20,Metformin,500 mg,08:00,Taken
+2026-10-20,Metformin,500 mg,20:00,Taken
+2026-10-20,Vitamin D3,1 capsule,09:00,Taken
+2026-10-20,Amlodipine,5 mg,21:00,Taken
+2026-10-21,Metformin,500 mg,08:00,Missed
+2026-10-21,Metformin,500 mg,20:00,Taken
+2026-10-21,Vitamin D3,1 capsule,09:00,Taken
+2026-10-21,Amlodipine,5 mg,21:00,Taken
+2026-10-22,Metformin,500 mg,08:00,Taken
+2026-10-22,Metformin,500 mg,20:00,Taken
+2026-10-22,Vitamin D3,1 capsule,09:00,Missed
+2026-10-22,Amlodipine,5 mg,21:00,Taken
+2026-10-23,Metformin,500 mg,08:00,Taken
+2026-10-23,Metformin,500 mg,20:00,Taken
+2026-10-23,Vitamin D3,1 capsule,09:00,Taken
+2026-10-23,Amlodipine,5 mg,21:00,Taken
